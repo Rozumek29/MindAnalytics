@@ -1,0 +1,6 @@
+name: MindAnalytics
+version: '${project.version}'
+main: com.github.rozumek29.mindanalytics.MindAnalytics
+api-version: 1.17
+authors: [ Rozumek29 ]
+website: https://github.com/Rozumek29
